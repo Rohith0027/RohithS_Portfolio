@@ -30,7 +30,7 @@ function Design() {
                         value: "#000000",
                     },
                 },
-                fpsLimit: 120,
+                fpsLimit: 30,
                 interactivity: {
                     events: {
                         onClick: {

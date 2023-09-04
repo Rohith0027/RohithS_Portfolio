@@ -304,17 +304,6 @@ export const Bio = {
     },
     {
       id: 3,
-      title: "Vitality Care",
-      description:
-        "The Vitality Care project is an interconnected healthcare ecosystem uniting doctors, patients, manufacturing units, and hospitals. This integration facilitates seamless health management, from personalized patient care and medical resource optimization to streamlined manufacturing of essential medical supplies. Through this holistic approach, Vitality Care promotes comprehensive well-being, efficient healthcare delivery, and collaborative synergy among all stakeholders, fostering a healthier society.",
-      image: vitality,
-      tags: ["HTML", "CSS", "Javascript", "PHP", "MySQL", "000WEBHOST", "VS Code"],
-      category: "web app",
-      github: "https://github.com/Rohith0027/Vitality_Care",
-      webapp: "https://vitality-care.000webhostapp.com/login.php",
-    },
-    {
-      id: 4,
       title: "YOUR BOOK",
       description:
         "It is a API-based Book Finder website employs external APIs to offer users instant access to a vast array of books. Through real-time integration with multiple databases, users can explore titles, authors, genres, and reviews. This dynamic platform streamlines book discovery, enriching the search process with up-to-date information and cover images. By harnessing APIs, it enhances user engagement and informed reading selections.",
@@ -325,7 +314,7 @@ export const Bio = {
       webapp: "https://rohith0027.github.io/Book-Finder/",
     },
     {
-      id: 5,
+      id: 4,
       title: "CryptoCoinExplorer",
       description: "The Crypto Coin Explorer is a web tool that enables users to delve into the world of cryptocurrencies. It provides comprehensive information about various coins, including current prices, historical data, market trends, and transaction details. Users can track coin performance, analyze market movements, and gain insights into the crypto landscape, all within a user-friendly interface. This explorer fosters informed decision-making for investors and enthusiasts navigating the complexities of digital currencies.",
       image: coin,
@@ -335,7 +324,7 @@ export const Bio = {
       webapp: "https://rohith0027.github.io/CryptoCoinExplorer/",
     },
     {
-      id: 6,
+      id: 5,
       title: "Personal-D",
       description: "It is a Student Document Management System Based on Ethereum Blockchain. The project implements an anti-forgery meachanism for academics documents,like mark sheets and certificates.",
       image: block,
@@ -344,7 +333,7 @@ export const Bio = {
       github: "https://github.com/Rohith0027/verification",
     },
     {
-      id: 7,
+      id: 6,
       title: "WhatsApp Clone",
       description: "This WhatsApp clone project closely emulates WhatsApp's text messaging functionality, offering a simplified yet robust platform dedicated to group communication. Users can seamlessly exchange text messages within group chats, fostering collaborative discussions and easy information sharing, all within a familiar and accessible interface.",
       image: whatsapp,

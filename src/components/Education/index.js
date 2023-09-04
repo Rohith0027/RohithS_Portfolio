@@ -17,7 +17,7 @@ const Container = styled.div`
     z-index: 1;
     align-items: center;
     @media (max-width: 960px) {
-        padding: 0px;
+        padding-right: 0;
     }
 `;
 
@@ -70,7 +70,7 @@ const TimelineSection = styled.div`
     gap: 12px;
     @media (max-width: 660px) {
         align-items: end;
-        padding-right: 40px;
+        padding-right: 100px;
     }
 `;
 
