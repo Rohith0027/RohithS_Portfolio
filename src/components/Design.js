@@ -30,7 +30,7 @@ function Design() {
                         value: "#000000",
                     },
                 },
-                fpsLimit: 30,
+                fpsLimit: 120,
                 interactivity: {
                     events: {
                         onClick: {
@@ -71,7 +71,7 @@ function Design() {
                             default: "bounce",
                         },
                         random: false,
-                        speed: 6,
+                        speed: 3,
                         straight: false,
                     },
                     number: {
