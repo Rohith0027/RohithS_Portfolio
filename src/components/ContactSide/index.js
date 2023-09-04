@@ -1,9 +1,9 @@
 import React from 'react'
 import { Canvas } from "@react-three/fiber";
 import { useGLTF, Stage, PresentationControls } from "@react-three/drei";
-import { styled } from 'styled-components';
+import bmw from './BMW.glb'
 function Model(props){
-  const { scene } = useGLTF('/bmw.glb');
+  const { scene } = useGLTF(bmw);
   return <primitive object={scene} {...props} />
 }
 export default function index(){

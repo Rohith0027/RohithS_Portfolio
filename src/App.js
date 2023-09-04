@@ -56,7 +56,7 @@ const App = () => {
             <Achieve />
           </Wrapper>
           <Wrapper>
-            <SideBySide>
+          <SideBySide>
               <ContactSide />
             </SideBySide>
             <Contact />
