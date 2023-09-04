@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/RohithS_Portfolio/static/css/main.0acb83a4.css",
+    "main.js": "/RohithS_Portfolio/static/js/main.75882350.js",
+    "static/media/yourbook.png": "/RohithS_Portfolio/static/media/yourbook.4ed9fbf6def5873bae89.png",
+    "static/media/block.png": "/RohithS_Portfolio/static/media/block.fb4fb2b28e46cfdd1207.png",
+    "static/media/personal.png": "/RohithS_Portfolio/static/media/personal.91114b798b663c7fcccf.png",
+    "static/media/ghmc.png": "/RohithS_Portfolio/static/media/ghmc.032786cdca1935b0c55a.png",
+    "static/media/spare.png": "/RohithS_Portfolio/static/media/spare.c4145e2bb853a152544e.png",
+    "static/media/vasavicer.png": "/RohithS_Portfolio/static/media/vasavicer.170ad233bf305c681e9c.png",
+    "static/media/port.png": "/RohithS_Portfolio/static/media/port.2e208346a77d2a8c600e.png",
+    "static/media/vardhaman.png": "/RohithS_Portfolio/static/media/vardhaman.de3a2e0c332d40249949.png",
+    "static/media/CMRTCIMG.jpeg": "/RohithS_Portfolio/static/media/CMRTCIMG.d0156ce0679021448f07.jpeg",
+    "static/media/hybrid.png": "/RohithS_Portfolio/static/media/hybrid.5bd06ef4f7709b91ff6e.png",
+    "static/media/nodejs.png": "/RohithS_Portfolio/static/media/nodejs.fc3bd1ec69d7a50e685a.png",
+    "static/media/vitality.png": "/RohithS_Portfolio/static/media/vitality.087b08970aff1ec0e0de.png",
+    "static/media/gan.png": "/RohithS_Portfolio/static/media/gan.312d893ee3ce18674c3d.png",
+    "static/media/coin.png": "/RohithS_Portfolio/static/media/coin.f080423452362ba67463.png",
+    "static/media/php.png": "/RohithS_Portfolio/static/media/php.144ab506ddba211b3555.png",
+    "static/media/ipfs.png": "/RohithS_Portfolio/static/media/ipfs.2c899a97eab096d857e4.png",
+    "static/media/obito.mp3": "/RohithS_Portfolio/static/media/obito.afbc830f57044c590e89.mp3",
+    "static/media/mets.png": "/RohithS_Portfolio/static/media/mets.2d6ac4a95d62304b98db.png",
+    "static/media/sq.png": "/RohithS_Portfolio/static/media/sq.3084cd900857c3f0275b.png",
+    "static/media/sol.png": "/RohithS_Portfolio/static/media/sol.d08ab6c02fba5cf68029.png",
+    "static/media/ju.mp3": "/RohithS_Portfolio/static/media/ju.56c966439006ee6edfc4.mp3",
+    "static/media/jesus.mp3": "/RohithS_Portfolio/static/media/jesus.8108ca6a1907d1886782.mp3",
+    "static/media/whatsapp.png": "/RohithS_Portfolio/static/media/whatsapp.2595ec8158fa2dca0d33.png",
+    "static/media/coding.svg": "/RohithS_Portfolio/static/media/coding.bb93992a0334fee2f4f6e14c216ee464.svg",
+    "static/media/sas.mp3": "/RohithS_Portfolio/static/media/sas.1333475618eb52d82981.mp3",
+    "static/media/good.mp3": "/RohithS_Portfolio/static/media/good.88d64e899487009b41d9.mp3",
+    "static/media/vasavi.jpg": "/RohithS_Portfolio/static/media/vasavi.46b132f54ef834a9f6af.jpg",
+    "static/media/rest.webp": "/RohithS_Portfolio/static/media/rest.f02bc9d7eb321186b3e4.webp",
+    "index.html": "/RohithS_Portfolio/index.html",
+    "main.0acb83a4.css.map": "/RohithS_Portfolio/static/css/main.0acb83a4.css.map",
+    "main.75882350.js.map": "/RohithS_Portfolio/static/js/main.75882350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acb83a4.css",
+    "static/js/main.75882350.js"
+  ]
+}
