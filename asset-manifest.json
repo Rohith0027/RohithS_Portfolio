@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RohithS_Portfolio/static/css/main.0acb83a4.css",
-    "main.js": "/RohithS_Portfolio/static/js/main.3f81d858.js",
+    "main.css": "/RohithS_Portfolio/static/css/main.ee0cb731.css",
+    "main.js": "/RohithS_Portfolio/static/js/main.a54b53ef.js",
     "static/media/BMW.glb": "/RohithS_Portfolio/static/media/BMW.262a8fb492005b6ada1a.glb",
     "static/media/yourbook.png": "/RohithS_Portfolio/static/media/yourbook.4ed9fbf6def5873bae89.png",
     "static/media/block.png": "/RohithS_Portfolio/static/media/block.fb4fb2b28e46cfdd1207.png",
@@ -32,11 +32,11 @@
     "static/media/vasavi.jpg": "/RohithS_Portfolio/static/media/vasavi.46b132f54ef834a9f6af.jpg",
     "static/media/rest.webp": "/RohithS_Portfolio/static/media/rest.f02bc9d7eb321186b3e4.webp",
     "index.html": "/RohithS_Portfolio/index.html",
-    "main.0acb83a4.css.map": "/RohithS_Portfolio/static/css/main.0acb83a4.css.map",
-    "main.3f81d858.js.map": "/RohithS_Portfolio/static/js/main.3f81d858.js.map"
+    "main.ee0cb731.css.map": "/RohithS_Portfolio/static/css/main.ee0cb731.css.map",
+    "main.a54b53ef.js.map": "/RohithS_Portfolio/static/js/main.a54b53ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.0acb83a4.css",
-    "static/js/main.3f81d858.js"
+    "static/css/main.ee0cb731.css",
+    "static/js/main.a54b53ef.js"
   ]
 }
