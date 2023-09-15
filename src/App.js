@@ -1,19 +1,19 @@
+import React from 'react'
 import './App.css';
+import { styled } from 'styled-components';
+import { useState } from "react";
+import {BrowserRouter as Router} from 'react-router-dom'
 import Design from './components/Design';
 import HeroSection from './components/HeroSection';
 import Navbar from './components/Navbar';
-import { styled } from 'styled-components';
 import Skills from './components/Skills';
-import Education from "./components/Education";
-import Projects from "./components/Projects";
-import { useState, useEffect } from "react";
+import Education from "./components/Education"
+import Projects from './components/Projects';
 import ProjectDetails from './components/ProjectDetails'
 import Contact from './components/Contact';
 import Footer from './components/Footer'
-import {BrowserRouter as Router} from 'react-router-dom'
 import ContactSide from './components/ContactSide'
 import Achieve from './components/Achieve'
-
 
 
 const Body = styled.div`

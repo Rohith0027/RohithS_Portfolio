@@ -11,7 +11,6 @@ import rest from './pics/rest.webp'
 import port from './pics/port.png'
 import ghmc from './pics/ghmc.png'
 import spare from './pics/spare.png'
-import vitality from './pics/vitality.png'
 import yourbook from './pics/yourbook.png'
 import coin from './pics/coin.png'
 import block from './pics/block.png'
@@ -25,6 +24,7 @@ import personal from './pics/personal.png'
 import ijert from './pics/ijert.png'
 import hybrid from './pics/hybrid.png'
 import quick from './pics/quick.png'
+import task from './pics/task.png'
 export const Bio = {
     name: "Velagapudi Rohith",
     roles: [
@@ -37,7 +37,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Rohith0027/",
     resume:
-      "https://drive.google.com/file/d/1UUdhCe7f0eSxZautAlOc9KJ7HuN7oTJY/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1xTK7I5v9-UnYM07zh_YU6luoqIxarK70/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/rohith-velagapudi-88758a221/",
     twitter: "",
     insta: "",
@@ -340,7 +340,17 @@ export const Bio = {
       tags: ["HTML", "CSS", "React JS", "Node JS", "Firebase", "Google Authentication", "Github", "VS Code"],
       category: "other",
       github: "https://github.com/Rohith0027/WhatsApp-Clone",
-      webapp: "https://whatsapp-clone-9eb6a.web.app/"
+      webapp: "https://whatsapp-clone-0808.netlify.app/"
+    },
+    {
+      id: 7,
+      title: "Task Manager",
+      description: "The Task Manager project is a web-based application designed to help users efficiently manage their tasks and to-do lists. It provides user authentication for secure access, allowing users to create, edit, and delete tasks with details such as titles, descriptions, due dates, and priority levels. Tasks can be organized into categories or lists, facilitating better organization. Users can track the status of each task, mark them as completed or incomplete.",
+      image: task,
+      tags: ["React js", "Vite", "Node js", "Express", "Mongo DB", "Netlify", "Render", "Github"],
+      category: "webapp",
+      github: "https://github.com/Rohith0027/Task-Manger",
+      webapp: "https://task-manager-0808.netlify.app/"
     },
   ];
   

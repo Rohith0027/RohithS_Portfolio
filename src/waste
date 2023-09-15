@@ -1,0 +1,6 @@
+<SideBySide>
+              <ContactSide />
+            </SideBySide>
+
+
+            const ContactSide = React.lazy(()=>import('./components/ContactSide')); 
